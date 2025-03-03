@@ -1,0 +1,31 @@
+3️⃣ UI Wireframes (User Flow)
+Here’s how the UI will be structured for each role:
+
+👤 Customer UI
+✅ Scan QR Code → Open digital menu
+✅ Select & Order → Add items to cart, confirm order
+✅ Track Order → Real-time updates: Preparing → Ready
+✅ Make Payment → Pay online or cash
+✅ Feedback & Exit
+
+
+---------------------------------------------------------------------------
+👨‍🍳 Kitchen UI
+✅ View Incoming Orders → List of pending orders
+✅ Accept & Prepare → Change order status: Preparing → Ready
+✅ Notify Waiter → Assign to waiter for serving
+
+
+---------------------------------------------------------------------------
+🧑‍💼 Waiter UI
+✅ View Ready Orders → See orders ready to serve
+✅ Serve Order → Update status to Served
+✅ Generate Bill → Initiate payment process
+
+
+---------------------------------------------------------------------------
+👨‍💼 Manager UI
+✅ View Table Status → Which tables are occupied
+✅ Monitor Orders → Track real-time order flow
+✅ View Payments → Track completed & pending payments
+✅ Analytics Dashboard → Insights on orders, revenue, peak hours

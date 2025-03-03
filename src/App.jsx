@@ -1,9 +1,9 @@
+import { RouterProvider } from "react-router-dom";
+import Sidebar from "./components/Sidebar";
+import routes from "./routes/routes";
+
 function App() {
-  return (
-    <h1 class="text-3xl font-bold underline text-primary">
-      Dine Ops - Dining Operations Optimisation!
-    </h1>
-  );
+  return <RouterProvider router={routes} />;
 }
 
 export default App;
